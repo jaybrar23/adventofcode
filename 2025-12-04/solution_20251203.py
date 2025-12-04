@@ -1,0 +1,1 @@
+f = open("C:\\Users\\Zoop\\Desktop\\SDE Learning\\git\\adventofcode\\2025-12-03\\input.txt")
